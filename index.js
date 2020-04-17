@@ -1,19 +1,19 @@
 const section = document.querySelector("._3Kxus").children[0];
 
 const buttonSlow = document.createElement("button");
-buttonSlow.innerHTML = ">";
+buttonSlow.innerHTML = "1x";
 buttonSlow.classList.add("change-speed");
 section.appendChild(buttonSlow);
 
-const buttonFast = document.createElement("button");
-buttonFast.innerHTML = ">>";
-buttonFast.classList.add("change-speed");
-section.appendChild(buttonFast);
+const buttonMiddle = document.createElement("button");
+buttonMiddle.innerHTML = "1.5x";
+buttonMiddle.classList.add("change-speed");
+section.appendChild(buttonMiddle);
 
-buttonFast.addEventListener("click", () => {
+buttonMiddle.addEventListener("click", () => {
   const audiosToFast = document.querySelectorAll("audio");
   for (audio of audiosToFast) {
-    audio.playbackRate = 2;
+    audio.playbackRate = 1.5;
   }
 });
 
