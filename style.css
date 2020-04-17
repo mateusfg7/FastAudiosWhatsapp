@@ -1,0 +1,19 @@
+button.change-speed {
+  margin: 4px;
+  padding: 3px;
+
+  border: 1px solid transparent;
+  border-radius: 5px;
+
+  background: #ededed;
+  color: #919191;
+}
+button.change-speed:hover {
+  border: 1px solid #919191;
+}
+
+.clicked {
+  background: #919191;
+  color: #ededed;
+  border: 1px solid #919191;
+}
