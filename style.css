@@ -12,7 +12,7 @@ button.change-speed:hover {
   border: 1px solid #919191;
 }
 
-.clicked {
+button.clicked {
   background: #919191;
   color: #ededed;
   border: 1px solid #919191;
