@@ -3,7 +3,7 @@
   "name": "FastAudioWhatsapp",
   "version": "1.0",
 
-  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "description": "Change the speed of audios in whatsapp web",
 
   "icons": {
     "48": "icons/icon_x48.png",
