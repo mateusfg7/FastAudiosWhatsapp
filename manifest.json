@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
   "name": "FastAudioWhatsapp",
-  "version": "1.0",
+  "version": "1.1",
 
   "description": "Change the speed of audios in whatsapp web",
+  "homepage": "https://github.com/mateusfg7/FastAudiosWhatsapp",
 
   "icons": {
     "48": "img/icons/icon_x48.png",

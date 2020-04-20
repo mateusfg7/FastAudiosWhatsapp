@@ -5,7 +5,7 @@ button.change-speed {
   border: 1px solid transparent;
   border-radius: 5px;
 
-  background: #ededed;
+  background: transparent;
   color: #919191;
 }
 button.change-speed:hover {
