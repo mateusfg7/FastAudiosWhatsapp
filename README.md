@@ -12,6 +12,6 @@ URL | [addon](https://addons.mozilla.org/pt-BR/firefox/addon/fastaudiowhatsapp/)
 > use zip
 
 create zip file on linux or mac:
-`$ zip dist/extension.zip * **/**`
+`$ zip extension.zip * **/**`
 
 
