@@ -4,7 +4,7 @@ Change the speed of audios in whatsapp web
 ![screenshot](img/screenshot.png)
 
 ---
-![](img/icons/icon_x96.png) | Firefox | Chrome
+![](img/icons/icon_x48.png) | Firefox | Chrome
 ---|---|---
 URL | [addon](https://addons.mozilla.org/pt-BR/firefox/addon/fastaudiowhatsapp/) | _unavailable_
 
